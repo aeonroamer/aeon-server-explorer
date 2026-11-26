@@ -144,7 +144,7 @@ To run it on a server, see [docs/deployment.md](docs/deployment.md).
 
 ## Author
 
-Built by **Asad Ali** ([Aeon Logics](https://github.com/AeonLogics)).
+Built by **Asad Ali** ([@aeonroamer](https://github.com/aeonroamer)), Aeon Logics.
 
 ## License
 
