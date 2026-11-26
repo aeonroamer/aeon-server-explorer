@@ -6,6 +6,7 @@
 
 **A self-hosted web UI for running Docker on your own server, built full-stack in Rust.**
 
+[![CI](https://github.com/aeonroamer/aeon-server-explorer/actions/workflows/ci.yml/badge.svg)](https://github.com/aeonroamer/aeon-server-explorer/actions/workflows/ci.yml)
 ![Rust](https://img.shields.io/badge/Rust-stable-b7410e?logo=rust)
 ![Leptos](https://img.shields.io/badge/Leptos-0.8%20SSR%20%2B%20hydrate-ef3939)
 ![Axum](https://img.shields.io/badge/Axum-0.8-4a4a4a)
